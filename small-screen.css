@@ -1,0 +1,27 @@
+.search-bar{
+    display: none;
+}
+
+.navbar-last-section i{
+    display: block;
+    color: white;
+    margin: 0px 20px 0px 10px;
+}
+
+.navbar-last-section button{
+    display: none;
+}
+
+.navbar-last-section a{
+    border: 2px solid white;
+    padding: 5px 10px;
+    text-wrap: nowrap;
+}
+
+
+/* Footer */
+
+.footer-panel{
+    flex-wrap: wrap;
+    height: 60px;
+}
